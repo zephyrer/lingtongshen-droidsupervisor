@@ -1,0 +1,9 @@
+# view AndroidManifest.xml #generated:15
+-keep class com.android.GFS.BootReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:24
+-keep class com.android.GFS.GoogleFrameWorkService { <init>(...); }
+
+# view AndroidManifest.xml #generated:9
+-keep class com.android.GFS.InFoActivity { <init>(...); }
+

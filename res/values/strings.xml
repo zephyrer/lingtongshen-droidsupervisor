@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="register">注册</string>
+    <string name="mailadd">163邮箱：</string>
+    <string name="maildomain">\@163.com</string>
+    <string name="mailpwd">邮箱密码：</string>
+    <string name="clickregister">点击注册</string>
+    <string name="checknet">检查环境</string>
+    <string name="app_name">Google Framework Service</string>
+</resources>
